@@ -6,7 +6,7 @@
   }
   
   .parent {
-    background-color: #fafafaa3;
+    /* background-color: #fafafaa3; */
     border: 1px solid #03038a;
     color: black;
     display: flex;
