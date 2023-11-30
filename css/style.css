@@ -15,16 +15,7 @@
     width: 100%;
     padding: 20px;
   }
-  .clr{
-    background-color: #03038a;
-    color: white;
-    padding: 10px;
-    border-radius: 20px;
-  }
-  .clr:hover{
-    background-color: #3d42cf;
-    cursor: pointer;
-  }
+  
   a{
     color: black;
     text-decoration: none;
@@ -131,7 +122,7 @@
     padding: 50px 50px;
   }
   .img1 {
-    height: 80px;
+    height: 100px;
   }
   .img2 {
     width: 150px;
