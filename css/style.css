@@ -7,7 +7,7 @@
   
   .parent {
     /* background-color: #fafafaa3; */
-    border: 1px solid #03038a;
+    /* border: 1px solid #03038a; */
     color: black;
     display: flex;
     flex-direction: row;
